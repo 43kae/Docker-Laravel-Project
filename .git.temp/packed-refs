@@ -1,0 +1,23 @@
+# pack-refs with: peeled fully-peeled sorted 
+d523dd131ebb88c8729fbfdef11c2269aa27bf89 refs/remotes/origin/dependabot/composer/laravel/framework-9.49.0
+c2f1f2802dbe82b2c08ea0b4b2dba095c66e71dc refs/remotes/origin/dependabot/composer/laravel/sail-1.19.0
+d01f90d7ff4a0330a4b8438de4da33d1792d12f3 refs/remotes/origin/dependabot/composer/nunomaduro/collision-6.4.0
+7fba6cde7adfb75c155824601840ee43e074faa7 refs/remotes/origin/dependabot/composer/phpstan/phpstan-1.9.14
+834d26f26f36c721b378cbc4ccbfe231ca448404 refs/remotes/origin/dependabot/composer/phpunit/phpunit-9.5.28
+5f360588a2a883cb70b6eb922829de1cf1e8a04a refs/remotes/origin/dependabot/composer/symfony/http-kernel-6.0.20
+0e17b59e903dccc6a1172c31036d403e44d1a763 refs/remotes/origin/dependabot/github_actions/actions/cache-3.2.4
+64e6efec5f01a89a5c4fad2fc641149e6672ef3b refs/remotes/origin/main
+316415fcd0a87d35da1dad51b9899c775cc8a8e2 refs/tags/v1.0.0
+8cb5af4a199595b52598b3fad285c96b8b599451 refs/tags/v1.1.0
+715fd3c588b1f94ad8597445a194783ceec4e8f6 refs/tags/v1.10.0
+ef905b79b2edbdc200bc961bf1bdbe1289b06131 refs/tags/v1.11.0
+efd7623d3577fd285f506ec72bbace40eb275a98 refs/tags/v1.12.0
+04acc5eca7294a1924944c4fab6ab96d14456567 refs/tags/v1.13.0
+94086d67b0b66a12007d3e80f3d179e6a6f48879 refs/tags/v1.2.0
+fe6942251cbe2ddde216d5f0ea5cad85effc906c refs/tags/v1.3.0
+7a88e06447353bd22621cc8ef5d9e943cf27fee8 refs/tags/v1.4.0
+017a4ce3581155bcd6e723f006541ac2fadaccee refs/tags/v1.5.0
+b95a8ea27e837514d5738c874f41c65fcee0964e refs/tags/v1.6.0
+c4118dd9daac0cf5e8563c27c1c4affdc19825ef refs/tags/v1.7.0
+6e20485fed59f2f58355366ce91b8b72a898e80b refs/tags/v1.8.0
+02d79ac1d72d821cc74e4017891a538915d62aa9 refs/tags/v1.9.0
